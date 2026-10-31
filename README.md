@@ -178,8 +178,8 @@ Contributions, issues and feature requests are welcome. Feel free to open an iss
 
 **Gaurav**
 
-- GitHub: [@your-username](https://github.com/your-username)
-
+- GitHub:(https://github.com/gauravgurjar9660/Emotion-Detection.git)
+project app link :
 ---
 
 <div align="center">
